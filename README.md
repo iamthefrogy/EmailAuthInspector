@@ -29,7 +29,7 @@ cd EmailAuthInspector
 2. Make the script executable:
 
 ```bash
-chmod +x check_dns_records.sh
+chmod +x emailauthinspector.sh
 ```
 3. Create a domains.txt file with the list of domains and subdomains you want to check. Each domain or subdomain should be on a new line:
 ```bash
@@ -41,7 +41,7 @@ etc.
 
 4. Run the script:
 ```bash
-./check_dns_records.sh
+./emailauthinspector.sh
 ```
 
 5. View the results:
