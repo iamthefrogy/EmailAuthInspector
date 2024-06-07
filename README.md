@@ -50,3 +50,14 @@ etc.
 5. View the results:
 The results will be printed to the console.
 A CSV report named dns_records_report.csv will be generated in the same directory.
+
+## Usage
+
+- 𝗘𝗺𝗮𝗶𝗹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗔𝘂𝗱𝗶𝘁𝘀: Quickly scan multiple domains to verify DMARC, SPF, and DKIM records.
+- 𝗠𝗮𝗻𝗮𝗴𝗲𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿𝘀 (𝗠𝗦𝗣𝘀): Perform bulk email authentication checks for multiple client domains.
+- 𝗗𝗼𝗺𝗮𝗶𝗻 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: Ensure secure email configurations across a large portfolio of domains.
+- 𝗣𝗿𝗲-𝗔𝗰𝗾𝘂𝗶𝘀𝗶𝘁𝗶𝗼𝗻 𝗗𝘂𝗲 𝗗𝗶𝗹𝗶𝗴𝗲𝗻𝗰𝗲: Assess email security posture during mergers and acquisitions.
+- 𝗣𝗵𝗶𝘀𝗵𝗶𝗻𝗴 𝗔𝘁𝘁𝗮𝗰𝗸 𝗣𝗿𝗲𝘃𝗲𝗻𝘁𝗶𝗼𝗻: Prevent domain spoofing by validating email authentication records.
+- 𝗖𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗥𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀: Verify email authentication for regulatory compliance.
+- 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴: Automate periodic checks of DMARC, SPF, and DKIM records.
+- 𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲: Swiftly audit domains after phishing incidents to identify and fix gaps.
