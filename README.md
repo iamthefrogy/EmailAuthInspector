@@ -51,7 +51,7 @@ etc.
 The results will be printed to the console.
 A CSV report named dns_records_report.csv will be generated in the same directory.
 
-## Usage
+## Use Cases:
 
 - 𝗘𝗺𝗮𝗶𝗹 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗔𝘂𝗱𝗶𝘁𝘀: Quickly scan multiple domains to verify DMARC, SPF, and DKIM records.
 - 𝗠𝗮𝗻𝗮𝗴𝗲𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿𝘀 (𝗠𝗦𝗣𝘀): Perform bulk email authentication checks for multiple client domains.
