@@ -1,9 +1,8 @@
 # EmailAuthInspector
 
-![image](https://github.com/iamthefrogy/EmailAuthInspector/assets/8291014/f5342183-0797-4f96-91cd-b6e3f0d3aea8)
-
-  <a href="https://github.com/iamthefrogy/frogy"><img src="https://user-images.githubusercontent.com/8291014/148647453-9328388b-1d04-4f76-99f4-c1f8d6aa8929.jpg" alt="frogy" height=230px></a>
-
+<h1 align="center">
+  <img src="https://github.com/iamthefrogy/EmailAuthInspector/assets/8291014/2184b436-59c4-47e2-ab90-02ad078f3e54" alt="EmailAuthInspector Logo" width="200" height="200">
+</h1>
 EmailAuthInspector is a bash script designed to help you quickly check the DMARC, SPF, and DKIM records for a list of domains and subdomains. This tool is useful for ensuring email authentication policies are correctly configured to prevent phishing and spoofing attacks.
 
 ## Features
